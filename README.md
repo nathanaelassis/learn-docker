@@ -1,4 +1,4 @@
-# Learning Vagrant
+# Learning Docker
 
 ## How to use?
 Execute the commands below in cmd.
